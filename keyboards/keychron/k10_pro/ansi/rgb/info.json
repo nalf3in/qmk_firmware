@@ -1,7 +1,7 @@
 {
     "usb": {
-        "pid": "0x0520",
-        "device_version": "1.0.0"
+    	"pid": "0x02A0",
+    	"device_version": "1.0.0"
     },
     "features": {
         "rgb_matrix": true
